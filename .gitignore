@@ -1,0 +1,36 @@
+####### file info from http://igotit.tistory.com/955
+####### Listing files
+*.COD
+*.HTM
+*.I
+*.LST
+*.MAP
+*.M51
+*.M66
+*.SCR
+*.hex
+
+######## Object and HEX Files
+*.AXF
+*.D
+*.O
+*.SBR
+*.CRF
+*.ELF
+*.H86
+*.bin
+
+######## Other Files
+*.BAK
+*.LNP
+*.iex
+*.dep
+*.uvguix.*
+Backup/
+
+####### MDK-ARM
+*.ioc
+*.uvprojx
+*.uvoptx
+*.s
+
